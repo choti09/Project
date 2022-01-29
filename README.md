@@ -1,2 +1,1 @@
-# Project
-Project for hackathon
+# Pro
